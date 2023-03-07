@@ -1,0 +1,70 @@
+
+.body {
+    background: #1e2044;
+}
+
+
+.top-bar {
+    width:1280px;
+    background-color: #172742;
+    height: 70px;
+}
+.top-bar .row{
+    width: 600px;
+}
+.top-bar .container {
+    display: flex;
+}
+.top-2 {
+    margin-left: 55%;
+}
+
+#pp  {
+    margin-left: 300px;
+    padding-left: 10%;
+}
+#pp  li {
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+   
+} 
+#pp li a{
+    color: rgba(255,255,255,0.6);
+    text-decoration: none;
+    font-size: 14px;
+}
+
+
+.nav-item{
+    margin-left: 15px;
+}
+
+.nav-item a{
+    color: white;
+    text-decoration: none;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.dropdown button {
+    background: transparent;
+    border: none;
+    font-size:15px;
+    font-weight: bold;
+}
+.top-bar .btn{
+    color: white;
+    font-size:13px;
+    font-weight: bold;
+   
+}  
+
+.price{
+    margin: 5%;
+} 
+ 
+
+.foo {
+    background-color: #2a2f39;
+}
