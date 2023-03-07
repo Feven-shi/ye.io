@@ -1,0 +1,306 @@
+
+body{
+    font-family: "Open Sans", sans-serif;
+    background-image: url("bgPIC.webp");
+    background-repeat: no-repeat;
+    color: white;
+}
+.top-bar {
+    width:1280px;
+    background-color: #172742;
+    height: 70px;
+}
+.row{
+    width: 600px;
+}
+.container {
+    display: flex;
+}
+.top-2 {
+    margin-left: 55%;
+}
+
+#pp  {
+    margin-left: 300px;
+    padding-left: 10%;
+}
+#pp  li {
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+   
+} 
+#pp li a{
+    color: rgba(255,255,255,0.6);
+    text-decoration: none;
+    font-size: 14px;
+}
+
+
+.nav-item{
+    margin-left: 15px;
+}
+
+.nav-item a{
+    color: white;
+    text-decoration: none;
+    font-size:15px;
+    font-weight: bold;
+}
+
+.dropdown button {
+    background: transparent;
+    border: none;
+    font-size:15px;
+    font-weight: bold;
+}
+.btn{
+    color: white;
+    font-size:13px;
+    font-weight: bold;
+   
+} 
+
+.green{
+    margin-top: 6%;
+    margin-left: 10%;
+    
+} 
+
+.green h1{
+    text-align: left;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.txtgreen {
+    background-image: linear-gradient(45deg,rgb(45, 210, 114),rgb(70, 102, 220));
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+     -moz-text-fill-color: transparent
+}
+
+.green h5 {
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.imgs {
+    margin-left: 10%;
+    margin-top: 3%;
+
+}
+
+.search {
+    display: flex;
+} 
+
+.search button{
+    margin-left: 3%;
+} 
+
+.middle {
+    background-color: #232432; 
+    margin-top: 10%;  
+} 
+
+.mm {
+    padding: 7% 0%;
+   
+} 
+.mm h1{
+    font-weight: bolder;
+}
+.mm p{
+    padding-top: 15px;
+} 
+
+.mid-b{
+    color: #5f6178;
+   padding-top: 7%;
+}  
+
+.mid-b p {
+
+    width:60%;
+} 
+.card ul li .txtg {
+    color: #a0abbc;
+}
+.cards .card-footer{
+    background-color: transparent;
+    padding: 5%;
+} 
+
+.card .ul1 {
+    margin: 5%;
+} 
+
+.price {
+    display: flex;
+    
+}  
+.price h1 {
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.price span {
+    margin-top: 9%;
+    font-weight: bold;
+}  
+
+.product ul li{
+    display: flex;
+   font-size: 15px;
+   
+} 
+.card{
+    border-radius: 12px;
+}
+.com li {
+    font-size: 14px;
+    color: #5c6067;
+}
+  
+.last {
+    padding: 5%;
+} 
+
+.card-footer .btn {
+    margin-top: 5%;
+} 
+ .card-footer a {
+    color: #172742;
+    text-decoration: none;
+} 
+
+ .c1{ margin-top: 10%;}
+.c2{
+    margin-top: 15%;
+}
+
+.headc {
+    background-color: #ffe400;
+    transform: translateY(-25px);
+    margin-right: 5%;
+    color: black;
+   text-align: center;
+} 
+.c3 {
+    color: white;
+}
+.c3 li{
+    background-color: #232423;
+    color: white;
+}
+
+.c3{
+    transform: translatey(-72%);
+    margin-left: 94%;
+} 
+
+#kk{
+    font-size: 23px;
+} 
+.c3 .txtg {
+    font-size: 15px;
+} 
+
+.c4{
+    transform: translatey(-155%);
+    margin-left: 148%;
+} 
+
+.allcard{
+    height: 1500px;
+} 
+
+.mid-2{
+    background-color: #f1f3f7;
+} 
+
+.m3head {
+    margin: 7%;
+    color: #56657e;
+    padding-left:7% ;
+}
+.m3head b{
+    font-size: 40px;
+}
+
+.mid4 .container .row {
+   margin: 5%;
+} 
+
+#box{
+    background-color: white;
+    border-radius: 10px;
+    color: #232423;
+} 
+
+.pulled{
+    transform: translatey(-200%);
+    margin-left: 108%;
+} 
+
+.mid5 {
+    background-color: #f4f5f6;
+    color: #4a566b;
+} 
+
+.mi5{
+    padding-top: 5%;
+} 
+
+.mi5 .row{
+    margin-top: 5%;
+    margin-left: 5%;
+    width:90%;
+} 
+
+.m7 {
+    padding: 10%;
+} 
+
+.boxx{
+    margin-top: 5%;
+    }
+
+
+#box2{
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    padding: 20px;
+    padding-right: 180px;
+    
+} 
+.sbtn{
+    border-radius: 15px;
+    padding: 20px;
+   color: #5c6067;
+} 
+
+.m7 h4{
+    font-size: 45px;
+} 
+
+.foo{
+    background-color: #232432 ;
+    height: 150vh;
+} 
+
+.serv{
+    transform: translateY(-405px);
+    margin-left: 120%;
+}
+
+.serv2{
+    transform: translateY(-190%);
+    margin-left: 160%;
+    width: 470px;
+}
